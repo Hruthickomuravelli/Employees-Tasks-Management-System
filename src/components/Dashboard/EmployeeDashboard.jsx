@@ -16,8 +16,6 @@
 
 // export default EmployeeDashboard
 
-
-// EmployeeDashboard.js
 import React from 'react';
 import Header from '../others/header';
 import TaskListNum from '../others/TaskListNum';
